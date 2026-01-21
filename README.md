@@ -1,3 +1,7 @@
+> ⚠️ **This repository is archived and no longer maintained.**
+> Fork no longer maintained.
+> For current DataJoint development, see [element-array-ephys](https://github.com/datajoint/element-array-ephys).
+
 # ecephys spike sorting -- for SpikeGLX data
 
 ![ecephys_spike_sorting_icon](icon.png)
